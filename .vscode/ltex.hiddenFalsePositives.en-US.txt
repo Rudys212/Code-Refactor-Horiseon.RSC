@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCode-Refactor-Horiseon.RSC\nPurpose\n-A webpage for the company, Horiseon that provides SEO consultation.\\E$"}
