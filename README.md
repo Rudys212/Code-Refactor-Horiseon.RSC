@@ -18,7 +18,7 @@
 * Footer 
 ![Webpage bottom](assets/images/bottom-of-pg.jpg)
 * Side panel listing the benefits of the services.
-![Side Panel](assets/images/Side-panel.png)
+![Side Panel](assets/images/Side-panel.jpg)
 
 ## Submission
 [Deployed URL](https://rudys212.github.io/Code-Refactor-Horiseon.RSC/)  
